@@ -1,0 +1,16 @@
+.card:hover {
+    padding-top: 15px;
+    padding-bottom: 15px;   
+    box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.4);
+}
+.card {
+    transition: 0.4s !important;
+}
+.icon:hover {
+    background-color: rgb(126, 121, 121) !important;
+    box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.4);
+    border-color:rgb(145, 136, 136) ;
+}
+.icon {
+    transition: 0.3s !important;
+}
